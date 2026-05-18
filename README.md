@@ -1,4 +1,4 @@
-# Branddetekteringssystem. (Del 1)
+# Branddetekteringssystem. 
 
 # Formål
 Systemet overvåger et miljø for brand- og sikkerhedsrisici ved hjælp af fem sensorer og en TinyML-model trænet i Edge Impulse.
